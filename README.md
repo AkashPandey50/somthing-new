@@ -1,1 +1,2 @@
 # somthing-new
+cd 
